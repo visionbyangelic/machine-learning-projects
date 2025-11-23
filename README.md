@@ -12,6 +12,11 @@ An AI companion that combines real-time emotion detection, journaling, and conve
 
 ---
 
+###  Multimodal-Emotion-Recognition  
+🔗 [View Repo](https://github.com/visionbyangelic/Multimodal-Emotion-Recognition)  
+
+
+---
 
 ### 🧤 ASL to Text  
 🔗 [View Repo](https://github.com/visionbyangelic/ASL_to_text)  
