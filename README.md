@@ -37,3 +37,5 @@ A text generation model trained on Shakespeare’s works to craft responses in E
 
 ## 📍 Author
 [@visionbyangelic](https://github.com/visionbyangelic)
+---
+---
